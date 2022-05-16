@@ -27,7 +27,7 @@ cd ios && npx pod-install
 
 ## Launch
 ```bash
-   npx react-native link
+npx react-native link
 ```
 
 ```bash
