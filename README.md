@@ -6,8 +6,8 @@ React native template
 - React (hooks) : 17.0.2
 - React Native : 0.66.4
 - React navigation v6
-- Redux + redux-persist + redux-thunk + hooks
-- Including assets (Fonts,images,global style)
+- Redux, redux-persist, redux-thunk, redux-hooks
+- Including assets (Fonts, Images, Global styles)
 
 ## Installation
 you must have [Node](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed on your OS
