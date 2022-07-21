@@ -13,7 +13,7 @@ React native template
 you must have [Node](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed on your OS
 clone project via git 
 ```bash
-git clone myproject
+git clone [https://github.com/Yves97/myRNT](https://github.com/Yves97/myRNT)
 ```
 
 ## Usage
